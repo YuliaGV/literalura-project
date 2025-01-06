@@ -1,4 +1,4 @@
-package com.alura.literalura_project.models;
+package com.alura.literalura_project.model;
 
 import jakarta.persistence.*;
 import lombok.Data;
